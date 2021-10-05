@@ -1,0 +1,6 @@
+#### Although Clearview states that it started with the noble goal of aiding law enforcement of finding criminals, the ethics issues involved with a company that has scraped 10 billion photos from the web are clear.  As if the initial collection of photos isn't concerning enough, the article exposes the direction the company is going in:
+###### "Some of Clearview's new technologies may spark further debate. Ton-That says it is developing new ways for police to find a person, including "deblur" and "mask removal" tools. The first takes a blurred image and sharpens it using machine learning to envision what a clearer picture would look like; the second tries to envision the covered part of a person's face using machine learning models that fill in missing details of an image using a best guess based on statistical patterns found in other images."
+
+#### I suppose we really never had any expectation of privacy in public, but now that illusion has been completely shattered.  The dangers of predicting what a criminal might have looked like behind a mask will inevitably lead to many more falsely imprisoned individuals.    We may see the use of masks continue long into the future as a privacy technique even if we are able to conquer COVID as a world society.
+
+https://www.wired.com/story/clearview-ai-new-tools-identify-you-photos/
